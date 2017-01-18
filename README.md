@@ -2,4 +2,5 @@
 first git project
 
 Testing. 
-Gonna Write lots of Python here.
+Gonna Write lots of code
+
